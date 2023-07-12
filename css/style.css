@@ -1,0 +1,43 @@
+h1, p {
+  font-family: 'Courier New', Courier, monospace;
+  color: #091D36;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: 20px;
+}
+h2 {
+  font-family: 'Courier New', Courier, monospace;
+  color: #3A4E7A;
+  font-size: 40px;
+}
+a {
+  text-decoration: none;
+}
+
+body {
+  text-align: center;
+  background-color: #C2D2E9;
+}
+
+hr {
+  color: #5E83BA;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+}
+
+#profile {
+  border-radius: 50%;
+  border: 5px solid #5E83BA;
+}
+
+table, th, td {
+  border: 0px solid black;
+  border-collapse: collapse;
+}
